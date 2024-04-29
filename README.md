@@ -1,4 +1,4 @@
-<img src="https://![45861dc9-760f-4716-9720-20865844b075](https://github.com/AdicOnGit/ollama-rag/assets/137413419/bdf5d27e-1b56-4b6c-98d8-779260d8cd6d)" width="200" height="200">
+<img src="https://github.com/AdicOnGit/ollama-rag/assets/137413419/bdf5d27e-1b56-4b6c-98d8-779260d8cd6d" width="200" height="200">
 
 # Document Processing with ChromaDB and Ollama
 
